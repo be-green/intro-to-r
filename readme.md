@@ -16,3 +16,15 @@ git clone https://github.com/be-green/intro-to-r.git
 ```
 
 There will then be a sub-folder in your directory called /intro-to-r that contains all of the relevant scripts.
+
+# Other great resources
+
+[Hadley Wickham: Advanced R](http://adv-r.had.co.nz/)
+
+[Stack Overflow](https://stackoverflow.com/questions/tagged/r)
+
+[R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
+
+[Intro to data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+
+[R for Data Science](https://r4ds.had.co.nz/)
