@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564850792200.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A2A32FCB",
+    "lastKnownWriteTime" : 1564850754,
+    "last_content_update" : 1564850754,
+    "path" : "~/Projects/intro-to-r/R/basics-and-classes.R",
+    "project_path" : "R/basics-and-classes.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

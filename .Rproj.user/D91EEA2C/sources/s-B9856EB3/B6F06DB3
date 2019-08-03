@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564850795876.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6F06DB3",
+    "lastKnownWriteTime" : 1564851113,
+    "last_content_update" : 1564851113817,
+    "path" : "~/Projects/intro-to-r/R/if-then-stop.R",
+    "project_path" : "R/if-then-stop.R",
+    "properties" : {
+        "cursorPosition" : "40,0",
+        "scrollLine" : "29",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
