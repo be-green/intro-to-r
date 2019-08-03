@@ -1,5 +1,10 @@
 # True Basics
 
+# looking up documentation!
+# this is the most important thing there is
+# ?name-of-thing, e.g.
+?lm
+
 ## this line is commented
 print("this line is run")
 a = "This is how you assign a value to a variable."
