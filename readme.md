@@ -14,3 +14,5 @@ and then run
 ```
 git clone https://github.com/be-green/intro-to-r.git
 ```
+
+There will then be a sub-folder in your directory called /intro-to-r that contains all of the relevant scripts.

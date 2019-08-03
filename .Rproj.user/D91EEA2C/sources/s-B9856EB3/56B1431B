@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564852859763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56B1431B",
+    "lastKnownWriteTime" : 1564853782,
+    "last_content_update" : 1564853782349,
+    "path" : "~/Projects/intro-to-r/R/ggplot2.R",
+    "project_path" : "R/ggplot2.R",
+    "properties" : {
+        "cursorPosition" : "79,26",
+        "scrollLine" : "72",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

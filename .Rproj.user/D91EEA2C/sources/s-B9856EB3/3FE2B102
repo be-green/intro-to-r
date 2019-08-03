@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564852689194.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3FE2B102",
+    "lastKnownWriteTime" : 1564852847,
+    "last_content_update" : 1564852847039,
+    "path" : "~/Projects/intro-to-r/R/reading-writing-data.R",
+    "project_path" : "R/reading-writing-data.R",
+    "properties" : {
+        "cursorPosition" : "25,17",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
